@@ -5,7 +5,7 @@ A Cloud-Based AI Intrusion Detection System for IoT Networks
 
 ## 🚀 About This Project
 
-Welcome to the **IoT IDS App**—an AI-powered cloud-based **Intrusion Detection System (IDS)** designed specifically for **IoT networks**. This system helps detect and classify various cyber attacks using an **Extreme Gradient Boosting (XGBoost) model**, ensuring security and peace of mind for IoT environments.
+Welcome to the **Cyber Dome**—an AI-powered cloud-based **Intrusion Detection System (IDS)** designed specifically for **IoT networks**. This system helps detect and classify various cyber attacks using an **Extreme Gradient Boosting (XGBoost) model**, ensuring security and peace of mind for IoT environments.
 
 ## 📂 Project Structure
 Here's a quick breakdown of how the project is organized:
@@ -79,9 +79,6 @@ Our **XGBoost model** delivers top-tier accuracy:
 - **Training Time**: **~151 seconds** 🚀
 
 ---
-
-## 🛠 Getting Started
-Want to try the **IoT IDS App**? Check it out here: **[IOT IDS App](https://iotids.streamlit.app/)** *(Note: The server may not always be up since the app is still in beta!)*
 
 ### 🚀 How to Use
 1. Upload a **PCAP** or **PCAPNG** file (network packet data).
