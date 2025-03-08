@@ -1,5 +1,4 @@
-# IoT IDS App
-
+# Cyber Dome
 A Cloud-Based AI Intrusion Detection System for IoT Networks
 
 ---
